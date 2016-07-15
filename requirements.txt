@@ -1,0 +1,3 @@
+this python3 script require next non-standard libraries:
+requests: for installing "pip install requests",
+telepot: for installing "pip install telepot"
